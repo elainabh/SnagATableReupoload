@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\bin\Debug\net6.0\Snag-That-Table.Models.deps.json
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\bin\Debug\net6.0\Snag-That-Table.Models.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\bin\Debug\net6.0\Snag-That-Table.Models.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.AssemblyInfo.cs
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\refint\Snag-That-Table.Models.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\Snag-That-Table.Models.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Models\obj\Debug\net6.0\ref\Snag-That-Table.Models.dll

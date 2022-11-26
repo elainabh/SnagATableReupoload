@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Snag_That_Table.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Snag-That-Table.Data\Snag-That-Table.Data.csproj" />
+    <ProjectReference Include="..\Snag-That-Table.Models\Snag-That-Table.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Services.deps.json
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Services.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Services.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Data.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Models.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Data.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\bin\Debug\net6.0\Snag-That-Table.Models.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.AssemblyInfo.cs
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.csproj.CopyComplete
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\refint\Snag-That-Table.Services.dll
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\Snag-That-Table.Services.pdb
+C:\ElevenFiftyProjects\Snag-That-Table\Snag-That-Table.Services\obj\Debug\net6.0\ref\Snag-That-Table.Services.dll
